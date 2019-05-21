@@ -48,9 +48,11 @@ pre-req: <br>
 tags: devops 
 
 ## Por que?
-Livros técnicos são caros no Brasil. Além do preço, às vezes vc não encontra boas recomendações de leituras para quem quer se aprofundar na área, ou a vc não tem condições no momento de investir um valor alto em um livro que vc não sabe se vai ser bom ou não.
+Livros técnicos são caros no Brasil. Além do problema do preço, às vezes vc não encontra boas recomendações de leituras para quem quer se aprofundar em uma determinada especialidade. Ou às vezes vc está curto de grana pra investir um valor alto em um livro e o simples fato de ter uma recomendação confiável, já ajuda na decisão de compra.
 
-A ideia é ter uma lista curada com os melhores livros relevantes a desenvolvimento, projetos ágeis e soft skill necessárias para ser um bom desenvolvedor moderno, para que sirva de guia e parâmetro pra galera que está iniciando na área ou atrás de conhecimento.
+>Eu, por exemplo, geralmente me encontro na situação de ```sem grana``` e ```sem boas referências```.
+
+Por isso, a ideia é ter uma lista curada com livros relevantes e importantes sobre desenvolvimento, projetos ágeis e soft skill, para auxiliar aqueles que tem como o foco em ser um bom desenvolvedor moderno, seja iniciante ou experiente.
 
 ## Pull Requests
 Colaboração é sempre bem vinda. 
