@@ -45,7 +45,12 @@ tags: soft skill
 **Manual de DevOps** | *The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations* <br>
 autor: Gene Kim <br>
 pre-req: <br>
-tags: devops 
+tags: devops
+
+**O Universo da Programação** <br>
+autor: William Oliveira <br>
+pre-req: nenhum <br>
+tags: soft skill, carreira 
 
 **Domain Driven Design** | *Tackling Complexity in the Heart of Software* <br>
 autor: Eric Evans / Foreword by Martin Fowler <br>
