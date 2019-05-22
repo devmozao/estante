@@ -45,7 +45,12 @@ tags: soft skill
 **Manual de DevOps** | *The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations* <br>
 autor: Gene Kim <br>
 pre-req: <br>
-tags: devops 
+tags: devops
+
+**O Universo da Programação** <br>
+autor: William Oliveira <br>
+pre-req: nenhum <br>
+tags: soft skill, carreira 
 
 ## Por que?
 Livros técnicos são caros no Brasil. Além do problema do preço, às vezes vc não encontra boas recomendações de leituras para quem quer se aprofundar em uma determinada especialidade. Ou às vezes vc está curto de grana pra investir um valor alto em um livro e o simples fato de ter uma recomendação confiável, já ajuda na decisão de compra.
