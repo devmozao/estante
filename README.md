@@ -47,6 +47,11 @@ autor: Gene Kim <br>
 pre-req: <br>
 tags: devops 
 
+**Domain Driven Design** | *Tackling Complexity in the Heart of Software* <br>
+autor: Eric Evans / Foreword by Martin Fowler <br>
+pre-req: clean code, extreme programing <br>
+tags: soft skill 
+
 ## Por que?
 Livros técnicos são caros no Brasil. Além do problema do preço, às vezes vc não encontra boas recomendações de leituras para quem quer se aprofundar em uma determinada especialidade. Ou às vezes vc está curto de grana pra investir um valor alto em um livro e o simples fato de ter uma recomendação confiável, já ajuda na decisão de compra.
 
