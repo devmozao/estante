@@ -36,8 +36,7 @@ tags: clean code
 
 <br>
 
-**Design Orientado a Domínio** | *Domain Driven Design*
-*Tackling Complexity in the Heart of Software*
+**Design Orientado a Domínio** | *Domain Driven Design: Tackling Complexity in the Heart of Software*
 ```
 autor: Eric Evans / Foreword by Martin Fowler
 pre-req: clean code, extreme programing
@@ -46,7 +45,16 @@ tags: soft skill, ddd
 
 <br>
 
-**Fora de Série** | *Outliers* <br>
+**JavaScript Eloquente** | *Eloquent JavaScript: A Modern Introduction to Programming*
+```
+autor: Marijn Haverbeke
+pre-req: nenhum
+tags: carreira, introdutório, javascript
+```
+
+<br>
+
+**Fora de Série** | *Outliers*
 ```
 autor: Malcolm Gladwell
 pre-req: nenhum
@@ -55,8 +63,7 @@ tags: soft skill
 
 <br>
 
-**Manual de DevOps** | *The DevOps Handbook*
-*How to Create World-Class Agility, Reliability, and Security in Technology Organizations*
+**Manual de DevOps** | *The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations*
 ```
 autor: Gene Kim
 pre-req:
@@ -74,21 +81,38 @@ tags: soft skill
 
 <br>
 
-**O Universo da Programação**
-*Um dia de carreira em Desenvolvimento de Software*
+**O Universo da Programação: Um dia de carreira em Desenvolvimento de Software**
 ```
 autor: William Oliveira
 pre-req: nenhum
-tags: soft skill, carreira 
+tags: soft skill, carreira, introdutório
 ```
 
 <br>
 
-**Rápido e Devagar: Duas Formas de Pensar** | *Thinking, Fast and Slow* <br>
+**Rápido e Devagar: Duas Formas de Pensar** | *Thinking, Fast and Slow*
 ```
 autor: Daniel Kahneman
 pre-req: nenhum
 tags: soft skill 
+```
+
+<br>
+
+**O Scrum: Guia de Bolso** | *Scrum: A Pocket Guide*
+```
+autor: Gunther Verheyen
+pre-req: nenhum
+tags: soft skill 
+```
+
+<br>
+
+**The Phoenix Project** | *The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win*
+```
+autor: Gene Kim, Kevin Behr, George Spafford
+pre-req: Manual de DevOps
+tags: ficção, soft skill
 ```
 
 ## Por que?
@@ -116,10 +140,12 @@ Seu nome e perfil será citado na lista de contribuidores da lista.
 MIT License: aberto para todos. Conhecimento é um direito nosso. Compartilhem!
 
 ## Contribuidores
->Lista de contribuidores e seus respectivos perfis pessoais
+>Lista de contribuidores e seus respectivos perfis pessoais (por ordem cronológica)
 * [Andre Gomes](https://www.linkedin.com/in/andrelmgomes/)
 * [Bruno Smith](https://github.com/brunoslribeiro)
 * [Kaio Felipe](https://github.com/kaiofelipejs)
+* [Bianca Rocha](https://github.com/rochabianca)
+* [Thales Machado](https://github.com/thalesmachado)
 
 ## Contato
 Sugestões? Críticas? Elogios? Quer bater um papo? Me chama nas redes sociais:
