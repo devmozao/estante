@@ -39,8 +39,8 @@ tags: clean code
 **Design Orientado a Domínio** | *Domain Driven Design*
 *Tackling Complexity in the Heart of Software*
 ```
-autor: Eric Evans / Foreword by Martin Fowler <br>
-pre-req: clean code, extreme programing <br>
+autor: Eric Evans / Foreword by Martin Fowler
+pre-req: clean code, extreme programing
 tags: soft skill, ddd
 ```
 
