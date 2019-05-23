@@ -1,3 +1,4 @@
+
 # A Estante do Dev
 Lista de leituras recomendadas à todas as pessoas que desejam trilhar uma carreira de Desenvolvimento, tenham experiência na área ou não.
 
@@ -17,54 +18,76 @@ Além dos títulos e autores, os livros na estante contém tags relevantes. ```E
 
 ## Estante
 
-**A Startup Enxuta** | *Lean Startup* <br>
-autor: Eric Ries <br>
-pre-req: nenhum <br>
-tags: lean, agile framework 
-
+**A Startup Enxuta** | *Lean Startup*
 ```
-**Código Limpo** | *Clean Code* <br>
-autor: Robert Cecil Martin <br>
-pre-req: <br>
+autor: Eric Ries
+pre-req: nenhum
+tags: lean, agile framework 
+```
+
+<br>
+
+**Código Limpo** | *Clean Code*
+```
+autor: Robert Cecil Martin
+pre-req:
 tags: clean code 
 ```
 
-**Design Orientado a Domínio** | *Domain Driven Design*<br>
-*Tackling Complexity in the Heart of Software* <br>
-autor: Eric Evans / Foreword by Martin Fowler <br>
-pre-req: clean code, extreme programing <br>
-tags: soft skill, ddd
+<br>
 
+**Design Orientado a Domínio** | *Domain Driven Design*
+*Tackling Complexity in the Heart of Software*
 ```
+autor: Eric Evans / Foreword by Martin Fowler
+pre-req: clean code, extreme programing
+tags: soft skill, ddd
+```
+
+<br>
+
 **Fora de Série** | *Outliers* <br>
-autor: Malcolm Gladwell <br>
-pre-req: nenhum <br>
+```
+autor: Malcolm Gladwell
+pre-req: nenhum
 tags: soft skill
 ```
 
-**Manual de DevOps** | *The DevOps Handbook* <br>
-*How to Create World-Class Agility, Reliability, and Security in Technology Organizations* <br>
-autor: Gene Kim <br>
-pre-req: <br>
-tags: devops
+<br>
 
+**Manual de DevOps** | *The DevOps Handbook*
+*How to Create World-Class Agility, Reliability, and Security in Technology Organizations*
 ```
-**O Poder do Hábito** | *Power of Habits* <br>
-autor: Charles Duhigg <br>
-pre-req: nenhum <br>
+autor: Gene Kim
+pre-req:
+tags: devops
+```
+
+<br>
+
+**O Poder do Hábito** | *Power of Habits*
+```
+autor: Charles Duhigg
+pre-req: nenhum
 tags: soft skill 
 ```
 
-**O Universo da Programação** <br>
-*Um dia de carreira em Desenvolvimento de Software*
-autor: William Oliveira <br>
-pre-req: nenhum <br>
-tags: soft skill, carreira 
+<br>
 
+**O Universo da Programação**
+*Um dia de carreira em Desenvolvimento de Software*
 ```
+autor: William Oliveira
+pre-req: nenhum
+tags: soft skill, carreira 
+```
+
+<br>
+
 **Rápido e Devagar: Duas Formas de Pensar** | *Thinking, Fast and Slow* <br>
-autor: Daniel Kahneman <br>
-pre-req: nenhum <br>
+```
+autor: Daniel Kahneman
+pre-req: nenhum
 tags: soft skill 
 ```
 
