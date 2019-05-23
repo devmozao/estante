@@ -58,8 +58,8 @@ tags: soft skill
 **Manual de DevOps** | *The DevOps Handbook*
 *How to Create World-Class Agility, Reliability, and Security in Technology Organizations*
 ```
-autor: Gene Kim <br>
-pre-req: <br>
+autor: Gene Kim
+pre-req:
 tags: devops
 ```
 
