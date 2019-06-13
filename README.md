@@ -4,11 +4,11 @@ Lista de leituras recomendadas à todas as pessoas que desejam trilhar uma carre
 
 ## Índice
 
-- [Como usar?](#como%20usar?)
+- [Como usar?](#como-usar)
 - [Estante](#estante)
-- [Por que?](#por%20que?)
-- [Pull Requests](#pull%20requests)
-- [Licença de uso](#licença%20de%20uso)
+- [Por quê?](#por-quê)
+- [Pull Requests](#pull-requests)
+- [Licença de uso](#licença-de-uso)
 - [Contribuidores](#contribuidores)
 - [Contato](#contato)
 
@@ -115,7 +115,7 @@ pre-req: Manual de DevOps
 tags: ficção, soft skill
 ```
 
-## Por que?
+## Por quê?
 Livros técnicos são caros no Brasil. Além do problema do preço, às vezes vc não encontra boas recomendações de leituras para quem quer se aprofundar em uma determinada especialidade. Ou às vezes vc está curto de grana pra investir um valor alto em um livro e o simples fato de ter uma recomendação confiável, já ajuda na decisão de compra.
 
 >Eu, por exemplo, geralmente me encontro na situação de ```sem grana``` e ```sem boas referências```.
@@ -154,4 +154,4 @@ Sugestões? Críticas? Elogios? Quer bater um papo? Me chama nas redes sociais:
 * [LinkedIn](https://www.linkedin.com/in/diogo-fonseca-it/)
 
 ## Back to top
-- [Índice](#a%20estante%20do%20dev)
+- [Índice](#a-estante-do-dev)
