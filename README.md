@@ -6,7 +6,7 @@ Lista de leituras recomendadas à todas as pessoas que desejam trilhar uma carre
 
 - [Como usar?](#como-usar)
 - [Estante](#estante)
-- [Por quê?](#por-que)
+- [Por quê?](#por-quê)
 - [Pull Requests](#pull-requests)
 - [Licença de uso](#licença-de-uso)
 - [Contribuidores](#contribuidores)
