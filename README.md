@@ -1,4 +1,4 @@
-
+﻿
 # A Estante do Dev
 Lista de leituras recomendadas à todas as pessoas que desejam trilhar uma carreira de Desenvolvimento, tenham experiência na área ou não.
 
@@ -114,6 +114,25 @@ autor: Gene Kim, Kevin Behr, George Spafford
 pre-req: Manual de DevOps
 tags: ficção, soft skill
 ```
+
+<br>
+
+**Expressões Regulares - Uma Abordagem divertida**
+```
+autor: Aurélio Marinho Jargas
+pre-req: nenhum
+tags: soft skill
+```
+
+<br>
+
+**TDD: Desenvolvimento Guiado por Testes** | *Test Driven Development*
+```
+autor: Kent Beck
+pre-req: nenhum
+tags: soft skill
+```
+
 
 ## Por quê?
 Livros técnicos são caros no Brasil. Além do problema do preço, às vezes vc não encontra boas recomendações de leituras para quem quer se aprofundar em uma determinada especialidade. Ou às vezes vc está curto de grana pra investir um valor alto em um livro e o simples fato de ter uma recomendação confiável, já ajuda na decisão de compra.
