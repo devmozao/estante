@@ -133,6 +133,15 @@ pre-req: nenhum
 tags: soft skill
 ```
 
+<br>
+
+**Pense em Python** | *Think Python*
+```
+autor: Allen B. Downey 
+pre-req: nenhum
+tags: python, algoritmo, fundamentos de programação, introdução, lógica
+```
+
 
 ## Por quê?
 Livros técnicos são caros no Brasil. Além do problema do preço, às vezes vc não encontra boas recomendações de leituras para quem quer se aprofundar em uma determinada especialidade. Ou às vezes vc está curto de grana pra investir um valor alto em um livro e o simples fato de ter uma recomendação confiável, já ajuda na decisão de compra.
