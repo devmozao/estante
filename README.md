@@ -142,6 +142,14 @@ pre-req: nenhum
 tags: python, algoritmo, fundamentos de programação, introdução, lógica
 ```
 
+<br>
+
+**Essencialismo** | *Essentialism*
+```
+autor:  Greg McKeown 
+pre-req: nenhum
+tags: soft skill, behavior
+```
 
 ## Por quê?
 Livros técnicos são caros no Brasil. Além do problema do preço, às vezes vc não encontra boas recomendações de leituras para quem quer se aprofundar em uma determinada especialidade. Ou às vezes vc está curto de grana pra investir um valor alto em um livro e o simples fato de ter uma recomendação confiável, já ajuda na decisão de compra.
