@@ -8,10 +8,8 @@ assignees: devMozao
 <!-- ⚠️⚠️ Do Not Delete This! ⚠️⚠️ -->
 **<título em PT/BR>** | *<titulo original em ingles, espanhol, etc>*
 *<sub titulo, opcional>*
-```
-sinopse: 
 Aqui pode colocar uma breve descrição do livro, pega a sinopse de algum site que venda o livro :)
-
+```
 autor: aqui você digita o autor do livro
 pre-req: há algum pre requisitos para leitura? se não coloque 'nenhum'
 tags: tags dos assuntos abordados no livro separadas por ','
