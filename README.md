@@ -241,7 +241,7 @@ Colaboração é sempre bem vinda.
 
 Caso vc tenha um livro para indicar, basta fazer um pull request seguindo o padrão abaixo e deixar nos comentários um breve resumo do porque o livro é importante a leitura, na sua opinião. 
 
-[![Add Book](../assets/button_book.svg)](/../..//issues/new?template=new_book.md)
+[![Add Book](../assets/button_book.svg?raw=true)](/../..//issues/new?template=new_book.md)
 
 Seu nome e perfil será citado na lista de contribuidores da lista.
 
