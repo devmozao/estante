@@ -8,6 +8,7 @@ assignees: devMozao
 <!-- ⚠️⚠️ Do Not Delete This! ⚠️⚠️ -->
 **<título em PT/BR>** | *<titulo original em ingles, espanhol, etc>*
 *<sub titulo, opcional>*
+
 Aqui pode colocar uma breve descrição do livro, pega a sinopse de algum site que venda o livro :)
 ```
 autor: aqui você digita o autor do livro
