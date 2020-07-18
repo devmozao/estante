@@ -1,0 +1,6 @@
+<svg width="138" height="32" viewBox="0 0 138 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M134 0H4C1.79086 0 0 1.79086 0 4V28C0 30.2091 1.79086 32 4 32H134C136.209 32 138 30.2091 138 28V4C138 1.79086 136.209 0 134 0Z" fill="#1966D2"/>
+<text opacity="0.704" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto Regular" font-size="14" letter-spacing="0em"><tspan x="97" y="20">Livro</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto Regular" font-size="14" letter-spacing="0em"><tspan x="37" y="20">Adicionar</tspan></text>
+<path d="M26 23L20 18.5556L14 23V8.77778C14 8.30628 14.1806 7.8541 14.5021 7.5207C14.8236 7.1873 15.2596 7 15.7143 7H24.2857C24.7404 7 25.1764 7.1873 25.4979 7.5207C25.8194 7.8541 26 8.30628 26 8.77778V23Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
