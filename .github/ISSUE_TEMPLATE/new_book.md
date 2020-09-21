@@ -4,9 +4,7 @@ about: Use esse template para adicionar um livro legal na estante.
 title: 'Indicação de livro - :book: [TITULO DO LIVRO]'
 labels: book indication
 assignees: devMozao
-
 ---
-
 <!-- ⚠️⚠️ Do Not Delete This! ⚠️⚠️ -->
 **<título em PT/BR>** | *<titulo original em ingles, espanhol, etc>*
 *<sub titulo, opcional>*

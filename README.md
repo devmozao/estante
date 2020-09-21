@@ -202,6 +202,8 @@ tags: soft skill, behavior
 dica: @VsSarto
 ```
 
+<br>
+
 **Kubernetes**
 *Tudo sobre orquestração de contêineres*
 
@@ -212,6 +214,46 @@ pre-req: nenhum
 tags: soft skill
 dica: @geovanipfranca
 ```
+
+<br>
+
+**Avalie o que Importa** | *Measure What Matters*
+*Como o Google, Bono Vox e a Fundação Gates Sacudiram o Mundo com os OKRs*
+
+O lendário capitalista de risco, John Doerr, revela como o sistema de Objetivos e Resultados-chaves (OKRs) ajudou gigantes da tecnologia, como Intel e Google, a alcançarem um crescimento exponencial ― e como ele pode ajudar qualquer organização a prosperar.
+```
+autor: John Doerr
+pre-req: nenhum
+tags: okrs, lean, soft skill
+dica: @geovanipfranca 
+```
+
+<br>
+
+**O poder do tempo livre**
+*Descubra seu potencial, crie projetos paralelos e torne sua vida mais incrível*
+
+Você quer mudar sua vida, mas não tem tempo. Bobagem. Todo mundo tem tempo. Confie em mim. A ideia deste livro é que você encontre tempo onde acha que ele não existe. Que você descubra o que realmente gosta de fazer, para criar um projeto paralelo ou aperfeiçoar o que você já faz. Este livro não é simplesmente para ser lido. É para ser usado. Então faça bom uso dele. Comece agora mesmo a se dedicar àquilo que você ama. Isso vai fazer uma grande diferença na sua felicidade. Escolha viver uma vida incrível. Ela é muito curta para não ser.
+```
+autor: Luciano Braga
+pre-req: nenhum
+tags: time management
+dica: @geovanipfranca 
+```
+
+<br>
+
+**Trilogia da Fundação**
+
+A humanidade está em risco. Uma ciência revolucionária prevê uma longa e inevitável era de trevas e barbárie. Para evitar que isso aconteça, o chamado plano Seldon é colocado em prática ao longo de séculos, e percorre a história da galáxia, prevendo conflitos de nossa civilização. Mas poderá o comportamento humano obedecer a um padrão científico?
+```
+autor: Isaac Asimov
+pre-req: nenhum
+tags: ficção ciêntifica
+dica: @geovanipfranca 
+```
+
+<br>
 
 ## Por quê?
 Livros técnicos são caros no Brasil. Além do problema do preço, às vezes vc não encontra boas recomendações de leituras para quem quer se aprofundar em uma determinada especialidade. Ou às vezes vc está curto de grana pra investir um valor alto em um livro e o simples fato de ter uma recomendação confiável, já ajuda na decisão de compra.
