@@ -255,6 +255,53 @@ dica: @geovanipfranca
 
 <br>
 
+**Arquitetura Limpa** | *Clean Architecture: A Craftsman's Guide to Software Structure and Design*
+
+As regras universais de arquitetura de software aumentam dramaticamente a produtividade dos desenvolvedores ao longo da vida dos sistemas de software.
+```
+autor: Robert Cecil Martin
+pre-req: nenhum
+tags: tags clean code, clean architecture
+dica: @throberto
+```
+
+<br>
+
+**O Programador Pragmático: De Aprendiz a Mestre** | *The Pragmatic Programmer: your journey to mastery*
+
+O Programador Pragmático ilustra as melhores práticas e as principais armadilhas do desenvolvimento de software. Destinado a todos envolvidos com programação, de codificadores iniciantes a programadores experientes e gerentes responsáveis por projetos de software, apresenta lições simples que promovem rápidas melhorias na produtividade pessoal, precisão e satisfação profissional.
+```
+autor: Andrew Hunt e David Thomas
+pre-req: nenhum
+tags: personal management, developer, soft skill
+dica: @csorlandi
+```
+
+<br>
+
+**Refatoração: Aperfeiçoando o Design de Códigos Existentes** | *Refactoring: Improving the Design of Existing Code*
+
+Por mais de vinte anos, programadores experientes no mundo inteiro contaram com o livro Refatoração de Martin Fowler para aperfeiçoar o design de códigos existentes e melhorar a manutenibilidade do software, assim como para deixar o código existente mais fácil de entender. Refatoração 2ª edição contém um catálogo atualizado das refatorações e inclui exemplos de código JavaScript bem como novos exemplos funcionais que demonstram a refatoração sem classes.
+```
+autor: Martin Fowler
+pre-req: clean code, ddd, clean architecture
+tags: developer, refactoring, architecture
+dica: @csorlandi
+```
+
+<br>
+
+**Algoritmos E Lógica Da Programação** 
+
+Com linguagem simples e didática – sem, no entanto, fugir da complexidade do assunto –, o livro procura tornar prática a lógica de programação, além de mostrar aos estudantes um caminho mais adequado na construção dos algoritmos. O desenvolvimento do raciocínio lógico e da abstração de procedimentos e dados são as maiores dificuldades para os estudantes dos cursos introdutórios. Nesse sentido, os autores resolvem os problemas propostos passo a passo, apresentando todos os conceitos envolvidos por meio de fluxogramas e em conjunto com pseudocódigos.
+```
+autor: Marcelo A. Furlan de Souza; Marcelo Marques Gomes; Marcio Vieira Soares
+pre-req: nenhum
+tags: lógica de programação
+dica: @ThiagoCrepequer
+```
+
+
 ## Por quê?
 Livros técnicos são caros no Brasil. Além do problema do preço, às vezes vc não encontra boas recomendações de leituras para quem quer se aprofundar em uma determinada especialidade. Ou às vezes vc está curto de grana pra investir um valor alto em um livro e o simples fato de ter uma recomendação confiável, já ajuda na decisão de compra.
 
@@ -284,6 +331,9 @@ MIT License: aberto para todos. Conhecimento é um direito nosso. Compartilhem!
 * [Paulo Lacerda](https://github.com/PauloLacerd) @PauloLacerd
 * [Thales Machado](https://github.com/thalesmachado) @thalesmachado
 * [Geovani Perez França](https://github.com/geovanipfranca) @geovanipfranca
+* [Thiago Roberto](https://github.com/throberto) @throberto
+* [Claudio Orlandi](https://github.com/csorlandi) @csorlandi
+* [Thiago de Souza Crepequer](https://github.com/ThiagoCrepequer) @ThiagoCrepequer
 
 ## Contato
 Sugestões? Críticas? Elogios? Quer bater um papo? Me chama nas redes sociais:
