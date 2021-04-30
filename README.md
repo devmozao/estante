@@ -301,6 +301,21 @@ tags: lógica de programação
 dica: @ThiagoCrepequer
 ```
 
+<br>
+
+**Padrões de Projeto** | *Design Patterns*
+*Elements of Reusable Object-Oriented Software*
+
+Livro fundamental para arquitetos de software, os 23 padrões descritos aqui tornaram-se mundialmente famosos e reconhecidos pela sua eficiência e elegância. Um verdadeiro best-seller mundial.
+```
+autor: Erich Gamma, John Vlissides, Richard Helm, Ralph Johnson
+pre-req: nenhum
+tags: Design Patterns, Código limpo, Engenharia de software
+dica: @g-nogara
+```
+
+<br>
+
 
 ## Por quê?
 Livros técnicos são caros no Brasil. Além do problema do preço, às vezes vc não encontra boas recomendações de leituras para quem quer se aprofundar em uma determinada especialidade. Ou às vezes vc está curto de grana pra investir um valor alto em um livro e o simples fato de ter uma recomendação confiável, já ajuda na decisão de compra.
@@ -334,6 +349,7 @@ MIT License: aberto para todos. Conhecimento é um direito nosso. Compartilhem!
 * [Thiago Roberto](https://github.com/throberto) @throberto
 * [Claudio Orlandi](https://github.com/csorlandi) @csorlandi
 * [Thiago de Souza Crepequer](https://github.com/ThiagoCrepequer) @ThiagoCrepequer
+* [Guilherme Nogara](https://github.com/g-nogara) @g-nogara
 
 ## Contato
 Sugestões? Críticas? Elogios? Quer bater um papo? Me chama nas redes sociais:
