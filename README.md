@@ -342,6 +342,20 @@ dica: @iagocavalcante
 
 <br>
 
+**Code Complete: Um Guia Prático P/ Construção** | *Code Complete: Practical Handbook of Software Construction*
+
+> Faça uma abordagem estratégica à construção de software - e produza produtos superiores - com esta edição totalmente atualizada do guia premiado e elogiado de Steve McConnell para as melhores práticas de desenvolvimento de software. 
+
+Com esse `abstract` o livro aborda realmente práticas escelentes pra quem tem interesse em seguir na área, ele alcança todos os níveis, um livro realmente excelente.
+```
+autor: Steve McConnell
+pre-req: Nenhum
+tags: Conceitos de Software
+dica: @iagocavalcante
+```
+
+<br>
+
 
 ## Por quê?
 Livros técnicos são caros no Brasil. Além do problema do preço, às vezes vc não encontra boas recomendações de leituras para quem quer se aprofundar em uma determinada especialidade. Ou às vezes vc está curto de grana pra investir um valor alto em um livro e o simples fato de ter uma recomendação confiável, já ajuda na decisão de compra.
