@@ -316,6 +316,32 @@ dica: @g-nogara
 
 <br>
 
+**99 Bottles of OOP - 2nd Edition** | *99 Bottles of OOP - 2nd Edition*
+
+O livro aborda vários tópicos como: 
+
+* Reconhecer quando o código é "bom o suficiente"
+* Obtendo o melhor valor do Desenvolvimento Orientado a Testes (TDD)
+* Fazendo refatoração adequada, não "rehacktoring" aleatório
+* Localizando conceitos enterrados no código
+* Encontrar nomes que transmitam um significado mais profundo
+* Alterar o código com segurança seguindo as "Regras de Flocagem"
+* Simplificando novas adições com o princípio aberto / fechado
+* Evitando condicionais obedecendo ao Princípio de Substituição de Liskov
+* Fazendo melhorias direcionadas, reduzindo os odores de código
+* Melhorando a mutabilidade com polimorfismo
+* Fabricação de objetos de simulação usando fábricas
+* Protegendo-se contra a incerteza ao afrouxar o acoplamento
+* Desenvolvendo uma estética de programação 
+```
+autor: Sandi Metz
+pre-req: Conhecer sobre lógica de programação e já conhecer linguagem que você vai querer o livro (PHP, Ruby ou JS)
+tags: OOP, Design de Software
+dica: @iagocavalcante
+```
+
+<br>
+
 
 ## Por quê?
 Livros técnicos são caros no Brasil. Além do problema do preço, às vezes vc não encontra boas recomendações de leituras para quem quer se aprofundar em uma determinada especialidade. Ou às vezes vc está curto de grana pra investir um valor alto em um livro e o simples fato de ter uma recomendação confiável, já ajuda na decisão de compra.
@@ -350,6 +376,7 @@ MIT License: aberto para todos. Conhecimento é um direito nosso. Compartilhem!
 * [Claudio Orlandi](https://github.com/csorlandi) @csorlandi
 * [Thiago de Souza Crepequer](https://github.com/ThiagoCrepequer) @ThiagoCrepequer
 * [Guilherme Nogara](https://github.com/g-nogara) @g-nogara
+* [Iago Cavalcante](https://github.com/iagocavalcante) @iagocavalcante
 
 ## Contato
 Sugestões? Críticas? Elogios? Quer bater um papo? Me chama nas redes sociais:
