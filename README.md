@@ -356,6 +356,18 @@ dica: @iagocavalcante
 
 <br>
 
+**Minimalismo Digital** | *Digital Minimalism*
+
+Em Minimalismo Digital, o autor Cal Newport apresenta uma filosofia para que os leitores reflitam sobre o uso da tecnologia. São dicas para quem quer usufruir do mundo digital de modo mais saudável, aproveitando os momentos offline da vida. 
+```
+autor: Cal Newport
+pre-req: nenhum
+tags: auto ajuda, lifehacks
+dica: @lucasew
+```
+
+<br>  
+
 
 ## Por quê?
 Livros técnicos são caros no Brasil. Além do problema do preço, às vezes vc não encontra boas recomendações de leituras para quem quer se aprofundar em uma determinada especialidade. Ou às vezes vc está curto de grana pra investir um valor alto em um livro e o simples fato de ter uma recomendação confiável, já ajuda na decisão de compra.
@@ -391,6 +403,7 @@ MIT License: aberto para todos. Conhecimento é um direito nosso. Compartilhem!
 * [Thiago de Souza Crepequer](https://github.com/ThiagoCrepequer) @ThiagoCrepequer
 * [Guilherme Nogara](https://github.com/g-nogara) @g-nogara
 * [Iago Cavalcante](https://github.com/iagocavalcante) @iagocavalcante
+* [Lucas Eduardo](https://github.com/lucasew) @lucasew
 
 ## Contato
 Sugestões? Críticas? Elogios? Quer bater um papo? Me chama nas redes sociais:
