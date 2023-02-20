@@ -1,3 +1,7 @@
+# [OUTDATED]
+Projeto está abandonado e sem contribuições por bastante tempo.
+Se alguém da comunidade quiser tocar o Estante, fique à vontade para clonar o repo e seguir em frente.
+---
 ﻿
 # A Estante do Dev
 Lista de leituras recomendadas à todas as pessoas que desejam trilhar uma carreira de Desenvolvimento, tenham experiência na área ou não.
